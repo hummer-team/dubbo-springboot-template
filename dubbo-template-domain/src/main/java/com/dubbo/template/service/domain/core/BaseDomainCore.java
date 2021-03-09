@@ -1,0 +1,1 @@
+package com.dubbo.template.service.domain.core;
